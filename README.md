@@ -1,4 +1,4 @@
-# freeCodeCamp-relational-database
+# freeCodeCamp Relational Database
 
 This is done following Relational Database Certification
 
